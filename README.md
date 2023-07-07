@@ -18,8 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Aplikasi mobile dengan framework flutter untuk menampilkan data dari list API
+
+
+
+## Aplikasi mobile dengan framework flutter untuk menampilkan data dari list API
 Dengan link : https://github.com/farizdotid/Daftar-api-lokal-indonesia
+
 
 
 Nama : Fadli Ramadan 
@@ -42,4 +46,4 @@ Running
 
 
 
-
+thank you !
